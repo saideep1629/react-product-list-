@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "description": "Noise-cancelling wireless headphones with 30-hour battery life",
+    "price": 200.00
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "description": "Latest model smartphone with 128GB storage",
+    "price": 560.00
+  },
+  {
+    "id": 3,
+    "name": "Laptop",
+    "description": "Thin and light laptop with 16GB RAM and 512GB SSD",
+    "price": 1300.00
+  },
+  {
+    "id": 4,
+    "name": "Smart Watch",
+    "description": "Fitness tracking and notifications with heart rate monitor",
+    "price": 350.00
+  },
+  {
+    "id": 5,
+    "name": "Bluetooth Speaker",
+    "description": "Portable waterproof speaker with 20-hour playtime",
+    "price": 90.00
+  },
+  {
+    "id": 6,
+    "name": "4K Smart TV",
+    "description": "55-inch 4K Ultra HD Smart TV with HDR",
+    "price": 700.00
+  },
+  {
+    "id": 7,
+    "name": "Gaming Console",
+    "description": "Next-gen gaming console with 1TB storage",
+    "price": 650.00
+  },
+  {
+    "id": 8,
+    "name": "Digital Camera",
+    "description": "Mirrorless camera with 4K video and 24MP sensor",
+    "price": 900.00
+  },
+  {
+    "id": 9,
+    "name": "Wireless Earbuds",
+    "description": "True wireless earbuds with charging case",
+    "price": 130.00
+  },
+  {
+    "id": 10,
+    "name": "Tablet",
+    "description": "10-inch tablet with stylus support and 128GB storage",
+    "price": 350.00
+  }
+]
